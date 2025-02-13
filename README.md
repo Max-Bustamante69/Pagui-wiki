@@ -1,2 +1,2 @@
-# pagui-kyc-backend
-Respository where the backend for the  Pagui KYC web app  will be developed 
+# pagui-kyc-wiki
+Respository where the WIKI for the  Pagui KYC web app  will be developed 
